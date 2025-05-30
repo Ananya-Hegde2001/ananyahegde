@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Ananya V Hegde - Frontend Engineer",
     description: "Frontend engineer by profession, creative at heart.",
-    url: "https://mohitvirli.github.io",
+    url: "https://ananyahegde.vercel.app",
     siteName: "Ananya Hegde's Portfolio",
     locale: "en_US",
     type: "website",
