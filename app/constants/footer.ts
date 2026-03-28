@@ -17,9 +17,9 @@ export const FOOTER_LINKS: FooterLink[] = [
     url: 'https://x.com/HegdeAnany49037',
   },
   {
-    name: 'Reddit',
+    name: 'Medium',
     icon: 'icons/instagram.svg',
-    url: 'https://www.reddit.com/user/Practical-Quarter163',
+    url: 'https://medium.com/@ananyavhegde2001',
   },
   {
     name: 'Resume',
